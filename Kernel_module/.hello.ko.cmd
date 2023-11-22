@@ -1,0 +1,1 @@
+cmd_/home/tuan/work/kenel/hello.ko := ld -r  -m elf_x86_64 -z noexecstack   --build-id=sha1  -T scripts/module.lds -o /home/tuan/work/kenel/hello.ko /home/tuan/work/kenel/hello.o /home/tuan/work/kenel/hello.mod.o;  true

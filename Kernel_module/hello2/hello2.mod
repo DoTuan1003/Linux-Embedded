@@ -1,0 +1,2 @@
+/home/tuan/work/kenel/hello2/hello2.o
+

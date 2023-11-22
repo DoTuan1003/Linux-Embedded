@@ -1,0 +1,1 @@
+cmd_/home/tuan/work/baitap/unit8_hellokernel/container/container.mod := { echo  /home/tuan/work/baitap/unit8_hellokernel/container/container.o;  echo; } > /home/tuan/work/baitap/unit8_hellokernel/container/container.mod

@@ -1,0 +1,1 @@
+cmd_/home/tuan/work/baitap/socket_netlink/sever.ko := ld -r  -m elf_x86_64 -z noexecstack   --build-id=sha1  -T scripts/module.lds -o /home/tuan/work/baitap/socket_netlink/sever.ko /home/tuan/work/baitap/socket_netlink/sever.o /home/tuan/work/baitap/socket_netlink/sever.mod.o;  true

@@ -1,0 +1,1 @@
+cmd_/home/tuan/work/baitap/socket_netlink/Module.symvers := sed 's/\.ko$$/\.o/' /home/tuan/work/baitap/socket_netlink/modules.order | scripts/mod/modpost -m -a  -o /home/tuan/work/baitap/socket_netlink/Module.symvers -e -i Module.symvers   -T -
